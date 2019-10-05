@@ -1,6 +1,6 @@
 # Facial-Recognition
 
-I have created 3 seperate files each for collecting data, training and recognizing.
+I have created 3 seperate files each for collecting the data, training and recognizing.
 
 Haarcascade classifier has been used to detect faces in the image.
 
